@@ -1,14 +1,3 @@
-"""
- ____    ____  __  _  ____  ______      ___ ___  __ __  ______   ____  ____    ____  __  _   ____  ______ 
-|    \  /    ||  |/ ]|    ||      |    |   |   ||  |  ||      | /    ||    \  /    ||  |/ ] /    ||      |
-|  _  ||  o  ||  ' /  |  | |      |    | _   _ ||  |  ||      ||  o  ||  o  )|  o  ||  ' / |  o  ||      |
-|  |  ||     ||    \  |  | |_|  |_|    |  \_/  ||  |  ||_|  |_||     ||     ||     ||    \ |     ||_|  |_|
-|  |  ||  _  ||     \ |  |   |  |      |   |   ||  :  |  |  |  |  _  ||  O  ||  _  ||     \|  _  |  |  |  
-|  |  ||  |  ||  .  | |  |   |  |      |   |   ||     |  |  |  |  |  ||     ||  |  ||  .  ||  |  |  |  |  
-|__|__||__|__||__|\_||____|  |__|      |___|___| \__,_|  |__|  |__|__||_____||__|__||__|\_||__|__|  |__|  
-
-"""
-
 import sys
 import os
 import re
@@ -25,10 +14,10 @@ clear()
 
 
 #====  A Y A R L A R  ==========================================================================
-sql_sunucu        = 'ISMV-SQLFXP1'
+sql_sunucu        = '*****'
 sql_veritabani    = 'PaygateMaestro'
-sql_kullanici     = 'usr_spotislopr'
-sql_sifre         = 'i7VgndFuXLUBtvZOeqlj'
+sql_kullanici     = '***r'
+sql_sifre         = '**********'
 
 # Refrans dosyasında bulunan fakat Swift dosyasına yazılması istenmeyen Referans'lar
 swift_excel_ref_filitresi = ['KURUM','MÜŞTERİ','takas farlı','takas farkı','TAKAS FARKI']
